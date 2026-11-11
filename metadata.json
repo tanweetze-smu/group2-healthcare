@@ -1,0 +1,6 @@
+{
+  "name": "SG HealthAge - Healthcare Density & Aging Population",
+  "description": "Interactive geospatial dashboard analyzing Singapore healthcare facility density, eldercare accessibility, and elderly population demographics powered by SingStat TableBuilder and OneMap APIs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
